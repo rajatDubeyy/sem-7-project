@@ -1,4 +1,4 @@
-# MindBloom: A Web3-Powered Mental Health & Wellness Platform  
+# TriFocus: A Web3-Powered Mental Health & Wellness Platform  
 **Heal. Commit. Earn. Govern — with privacy-first AI, biometric meditation, and blockchain accountability.**
 
 ---
