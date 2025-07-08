@@ -1,0 +1,14 @@
+{
+  "network": "holesky",
+  "chainId": "17000",
+  "contractAddress": "0x4bEae51760C01A2C2a55BF1FBA9265E2f661c71a",
+  "deployer": "0x23187E285929405A9E28eAEa245efc22dbbD8C61",
+  "deployedAt": "2025-05-28T15:43:18.333Z",
+  "transactionHash": "0x833c0067e6dab86ce5c3a59a17ac44054a34d8ac6584979b505484ccc7010946",
+  "gasUsed": "3805152",
+  "constants": {
+    "maxStakeAmount": "1000000000000000000000000",
+    "minSessionFee": "10000000000000000000",
+    "maxHabitReward": "100000000000000000000"
+  }
+}

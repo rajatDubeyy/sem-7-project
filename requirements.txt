@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+pydantic
+python-dotenv
+speechrecognition
+deep-translator
+gTTS
+langdetect
+sentence-transformers
+chromadb
+requests
+transformers
+gtts-token
